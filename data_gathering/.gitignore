@@ -1,0 +1,8 @@
+build/
+GeneratedSource/
+docs/
+linker/
+.mtbLaunchConfigs
+.cproject
+.project
+.settings
