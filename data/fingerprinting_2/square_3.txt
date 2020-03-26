@@ -1,0 +1,5004 @@
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -62 -67 -52 -60 -70
+[INFO] RSSI values: -63 -56 -53 -68 -61
+[INFO] RSSI values: -63 -56 -52 -68 -62
+[INFO] RSSI values: -63 -56 -53 -68 -62
+[INFO] RSSI values: -63 -56 -52 -68 -62
+[INFO] RSSI values: -63 -56 -52 -70 -63
+[INFO] RSSI values: -63 -56 -52 -69 -61
+[INFO] RSSI values: -63 -56 -52 -68 -61
+[INFO] RSSI values: -63 -56 -53 -69 -62
+[INFO] RSSI values: -62 -56 -53 -68 -63
+[INFO] RSSI values: -62 -57 -52 -69 -64
+[INFO] RSSI values: -62 -56 -52 -68 -61
+[INFO] RSSI values: -62 -57 -52 -69 -61
+[INFO] RSSI values: -62 -57 -52 -69 -62
+[INFO] RSSI values: -62 -56 -52 -69 -61
+[INFO] RSSI values: -63 -56 -52 -69 -61
+[INFO] RSSI values: -63 -56 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -70 -61
+[INFO] RSSI values: -63 -56 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -68 -61
+[INFO] RSSI values: -63 -56 -52 -68 -61
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -62
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -68 -61
+[INFO] RSSI values: -63 -57 -52 -68 -59
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -59
+[INFO] RSSI values: -63 -57 -52 -68 -59
+[INFO] RSSI values: -63 -57 -52 -68 -59
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -53 -69 -60
+[INFO] RSSI values: -63 -57 -53 -69 -60
+[INFO] RSSI values: -63 -57 -53 -69 -60
+[INFO] RSSI values: -63 -57 -53 -69 -60
+[INFO] RSSI values: -63 -57 -53 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -53 -69 -60
+[INFO] RSSI values: -63 -57 -53 -69 -60
+[INFO] RSSI values: -63 -57 -53 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -55 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -53 -68 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -61
+[INFO] RSSI values: -63 -57 -52 -68 -61
+[INFO] RSSI values: -63 -57 -52 -69 -61
+[INFO] RSSI values: -63 -57 -52 -68 -61
+[INFO] RSSI values: -63 -57 -52 -68 -61
+[INFO] RSSI values: -62 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -56 -52 -68 -60
+[INFO] RSSI values: -63 -56 -52 -68 -60
+[INFO] RSSI values: -63 -56 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -56 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -56 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -69 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -59
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -60
+[INFO] RSSI values: -63 -57 -52 -68 -59
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -68 -62 -71 -51 -61
+[INFO] RSSI values: -68 -62 -56 -50 -79
+[INFO] RSSI values: -68 -62 -56 -50 -79
+[INFO] RSSI values: -68 -62 -56 -50 -79
+[INFO] RSSI values: -68 -63 -56 -50 -78
+[INFO] RSSI values: -68 -62 -57 -50 -77
+[INFO] RSSI values: -68 -62 -56 -50 -83
+[INFO] RSSI values: -68 -62 -56 -50 -79
+[INFO] RSSI values: -68 -62 -56 -50 -79
+[INFO] RSSI values: -68 -61 -56 -50 -79
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -68 -62 -56 -50 -77
+[INFO] RSSI values: -68 -62 -57 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -78
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -68 -62 -56 -50 -80
+[INFO] RSSI values: -68 -62 -56 -50 -78
+[INFO] RSSI values: -68 -62 -56 -50 -81
+[INFO] RSSI values: -68 -62 -56 -50 -83
+[INFO] RSSI values: -68 -63 -56 -50 -73
+[INFO] RSSI values: -68 -62 -56 -50 -80
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -79
+[INFO] RSSI values: -68 -61 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -68 -63 -56 -50 -78
+[INFO] RSSI values: -68 -62 -56 -50 -77
+[INFO] RSSI values: -68 -62 -56 -50 -75
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -68 -62 -56 -50 -73
+[INFO] RSSI values: -68 -62 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -78
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -69 -62 -56 -50 -72
+[INFO] RSSI values: -69 -62 -57 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -63 -57 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -76
+[INFO] RSSI values: -69 -63 -56 -50 -78
+[INFO] RSSI values: -69 -63 -56 -50 -79
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -73
+[INFO] RSSI values: -68 -63 -56 -50 -76
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -69 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -78
+[INFO] RSSI values: -68 -63 -56 -50 -76
+[INFO] RSSI values: -68 -63 -56 -50 -76
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -74
+[INFO] RSSI values: -68 -62 -56 -50 -76
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -69 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -77
+[INFO] RSSI values: -68 -63 -56 -50 -71
+[INFO] RSSI values: -68 -62 -56 -50 -73
+[INFO] RSSI values: -68 -62 -56 -50 -72
+[INFO] RSSI values: -68 -63 -56 -50 -71
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -64 -56 -50 -80
+[INFO] RSSI values: -68 -63 -56 -50 -72
+[INFO] RSSI values: -68 -62 -56 -50 -71
+[INFO] RSSI values: -68 -63 -56 -50 -73
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -72
+[INFO] RSSI values: -68 -63 -56 -50 -72
+[INFO] RSSI values: -68 -63 -56 -50 -71
+[INFO] RSSI values: -68 -63 -56 -50 -71
+[INFO] RSSI values: -68 -63 -56 -50 -76
+[INFO] RSSI values: -68 -63 -56 -50 -80
+[INFO] RSSI values: -68 -63 -56 -50 -81
+[INFO] RSSI values: -68 -63 -56 -50 -76
+[INFO] RSSI values: -68 -63 -56 -50 -73
+[INFO] RSSI values: -68 -63 -56 -50 -75
+[INFO] RSSI values: -68 -63 -56 -50 -74
+[INFO] RSSI values: -68 -63 -56 -50 -79
+[INFO] RSSI values: -68 -63 -56 -50 -80
+[INFO] RSSI values: -68 -63 -56 -50 -82
+[INFO] RSSI values: -68 -63 -56 -50 -85
+[INFO] RSSI values: -68 -63 -56 -50 -85
+[INFO] RSSI values: -68 -63 -56 -50 -85
+[INFO] RSSI values: -68 -63 -56 -50 -83
+[INFO] RSSI values: -68 -64 -56 -50 -80
+[INFO] RSSI values: -68 -63 -56 -50 -80
+[INFO] RSSI values: -68 -63 -56 -50 -84
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -65 -65 -72 -55 -57
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -67 -56 -73 -51 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -73 -51 -55
+[INFO] RSSI values: -67 -56 -73 -50 -55
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -67 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -67 -56 -74 -50 -56
+[INFO] RSSI values: -67 -56 -73 -51 -56
+[INFO] RSSI values: -67 -56 -72 -51 -56
+[INFO] RSSI values: -67 -56 -73 -51 -56
+[INFO] RSSI values: -67 -56 -73 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -67 -56 -73 -51 -57
+[INFO] RSSI values: -67 -56 -75 -50 -57
+[INFO] RSSI values: -68 -56 -74 -51 -56
+[INFO] RSSI values: -68 -56 -74 -51 -56
+[INFO] RSSI values: -68 -56 -73 -51 -57
+[INFO] RSSI values: -68 -56 -72 -50 -57
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -71 -50 -56
+[INFO] RSSI values: -68 -56 -70 -50 -56
+[INFO] RSSI values: -67 -56 -74 -51 -55
+[INFO] RSSI values: -68 -56 -73 -50 -55
+[INFO] RSSI values: -67 -56 -72 -51 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -75 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -67 -56 -75 -51 -56
+[INFO] RSSI values: -67 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -75 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -71 -50 -56
+[INFO] RSSI values: -68 -56 -71 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -67 -56 -75 -50 -56
+[INFO] RSSI values: -67 -56 -75 -50 -56
+[INFO] RSSI values: -68 -56 -75 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -74 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -55
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -67 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -51 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -51 -56
+[INFO] RSSI values: -68 -56 -71 -51 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -71 -51 -56
+[INFO] RSSI values: -68 -56 -72 -51 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -72 -51 -56
+[INFO] RSSI values: -68 -56 -72 -51 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -51 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -73 -50 -56
+[INFO] RSSI values: -68 -56 -73 -51 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -67 -56 -72 -50 -55
+[INFO] RSSI values: -67 -56 -73 -50 -55
+[INFO] RSSI values: -67 -56 -71 -50 -56
+[INFO] RSSI values: -67 -56 -71 -50 -56
+[INFO] RSSI values: -68 -56 -71 -50 -56
+[INFO] RSSI values: -68 -56 -71 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI values: -68 -56 -72 -50 -56
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -62 -60 -73 -60 -57
+[INFO] RSSI values: -62 -55 -69 -51 -63
+[INFO] RSSI values: -61 -55 -69 -51 -62
+[INFO] RSSI values: -62 -55 -69 -51 -62
+[INFO] RSSI values: -62 -55 -69 -51 -62
+[INFO] RSSI values: -62 -55 -69 -51 -62
+[INFO] RSSI values: -61 -55 -69 -51 -62
+[INFO] RSSI values: -62 -55 -69 -51 -62
+[INFO] RSSI values: -62 -55 -68 -51 -62
+[INFO] RSSI values: -62 -55 -69 -51 -62
+[INFO] RSSI values: -61 -55 -69 -51 -63
+[INFO] RSSI values: -61 -55 -69 -51 -62
+[INFO] RSSI values: -61 -55 -70 -51 -62
+[INFO] RSSI values: -62 -55 -70 -51 -62
+[INFO] RSSI values: -61 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -69 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -54 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -62
+[INFO] RSSI values: -62 -55 -71 -51 -62
+[INFO] RSSI values: -62 -55 -71 -51 -62
+[INFO] RSSI values: -62 -55 -70 -51 -62
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -62
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -61 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -60
+[INFO] RSSI values: -61 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -69 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -62
+[INFO] RSSI values: -62 -55 -70 -51 -62
+[INFO] RSSI values: -61 -55 -71 -51 -62
+[INFO] RSSI values: -62 -55 -71 -51 -62
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -62 -55 -71 -51 -61
+[INFO] RSSI values: -61 -55 -70 -51 -61
+[INFO] RSSI values: -62 -55 -70 -51 -61
+[INFO] RSSI values: -61 -55 -70 -51 -62
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -59 -63 -75 -56 -65
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -58
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -60
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -64 -50 -57 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -55 -59
+[INFO] RSSI values: -61 -65 -50 -56 -58
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -58
+[INFO] RSSI values: -61 -64 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -56 -59
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -65 -50 -57 -58
+[INFO] RSSI values: -61 -64 -50 -57 -58
+[INFO] RSSI values: -61 -65 -50 -57 -59
+[INFO] RSSI values: -61 -64 -50 -57 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI values: -61 -64 -50 -56 -59
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -68 -71 -79 -61 -69
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -81 -65
+[INFO] RSSI values: -59 -60 -58 -82 -65
+[INFO] RSSI values: -59 -60 -58 -81 -65
+[INFO] RSSI values: -60 -60 -58 -82 -65
+[INFO] RSSI values: -60 -61 -58 -81 -65
+[INFO] RSSI values: -59 -60 -58 -80 -64
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -59 -60 -58 -80 -65
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -78 -65
+[INFO] RSSI values: -59 -60 -58 -79 -65
+[INFO] RSSI values: -59 -60 -58 -80 -65
+[INFO] RSSI values: -59 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -78 -65
+[INFO] RSSI values: -60 -60 -58 -78 -65
+[INFO] RSSI values: -60 -60 -58 -78 -66
+[INFO] RSSI values: -60 -60 -58 -78 -67
+[INFO] RSSI values: -60 -60 -58 -79 -66
+[INFO] RSSI values: -60 -60 -58 -79 -66
+[INFO] RSSI values: -59 -60 -58 -79 -66
+[INFO] RSSI values: -59 -60 -58 -78 -65
+[INFO] RSSI values: -59 -60 -58 -78 -65
+[INFO] RSSI values: -60 -60 -58 -79 -66
+[INFO] RSSI values: -60 -60 -58 -79 -66
+[INFO] RSSI values: -60 -60 -58 -80 -66
+[INFO] RSSI values: -60 -60 -58 -80 -67
+[INFO] RSSI values: -60 -60 -58 -80 -67
+[INFO] RSSI values: -60 -60 -58 -78 -67
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -79 -66
+[INFO] RSSI values: -60 -60 -58 -78 -65
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -80 -65
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -80 -63
+[INFO] RSSI values: -60 -60 -58 -80 -65
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -60 -58 -79 -65
+[INFO] RSSI values: -60 -61 -58 -79 -64
+[INFO] RSSI values: -60 -61 -58 -79 -64
+[INFO] RSSI values: -60 -61 -58 -79 -65
+[INFO] RSSI values: -60 -61 -58 -79 -65
+[INFO] RSSI values: -60 -61 -58 -79 -65
+[INFO] RSSI values: -60 -61 -58 -78 -66
+[INFO] RSSI values: -60 -61 -58 -80 -67
+[INFO] RSSI values: -60 -60 -58 -80 -67
+[INFO] RSSI values: -60 -60 -58 -80 -66
+[INFO] RSSI values: -60 -60 -58 -80 -64
+[INFO] RSSI values: -60 -61 -58 -79 -65
+[INFO] RSSI values: -60 -61 -58 -79 -64
+[INFO] RSSI values: -60 -61 -58 -79 -64
+[INFO] RSSI values: -60 -61 -58 -79 -65
+[INFO] RSSI values: -60 -61 -58 -80 -66
+[INFO] RSSI values: -60 -61 -58 -79 -67
+[INFO] RSSI values: -60 -60 -58 -80 -67
+[INFO] RSSI values: -60 -61 -58 -81 -67
+[INFO] RSSI values: -60 -61 -58 -80 -66
+[INFO] RSSI values: -60 -61 -58 -79 -66
+[INFO] RSSI values: -60 -61 -58 -80 -65
+[INFO] RSSI values: -60 -60 -58 -80 -66
+[INFO] RSSI values: -60 -60 -58 -80 -67
+[INFO] RSSI values: -60 -60 -58 -81 -67
+[INFO] RSSI values: -60 -60 -58 -81 -66
+[INFO] RSSI values: -60 -60 -58 -81 -66
+[INFO] RSSI values: -60 -60 -58 -81 -66
+[INFO] RSSI values: -60 -60 -58 -80 -66
+[INFO] RSSI values: -60 -60 -58 -80 -67
+[INFO] RSSI values: -60 -60 -58 -79 -67
+[INFO] RSSI values: -59 -60 -58 -79 -67
+[INFO] RSSI values: -60 -60 -58 -79 -67
+[INFO] RSSI values: -59 -60 -58 -79 -69
+[INFO] RSSI values: -59 -60 -58 -80 -69
+[INFO] RSSI values: -60 -60 -58 -81 -68
+[INFO] RSSI values: -60 -60 -58 -84 -67
+[INFO] RSSI values: -59 -60 -58 -82 -66
+[INFO] RSSI values: -60 -60 -58 -81 -66
+[INFO] RSSI values: -60 -60 -58 -80 -68
+[INFO] RSSI values: -60 -60 -58 -81 -68
+[INFO] RSSI values: -60 -60 -58 -80 -70
+[INFO] RSSI values: -60 -60 -58 -80 -70
+[INFO] RSSI values: -60 -60 -58 -80 -70
+[INFO] RSSI values: -60 -60 -58 -80 -71
+[INFO] RSSI values: -60 -60 -58 -81 -68
+[INFO] RSSI values: -60 -60 -58 -81 -66
+[INFO] RSSI values: -60 -60 -58 -78 -67
+[INFO] RSSI values: -60 -60 -58 -80 -66
+[INFO] RSSI values: -60 -60 -58 -80 -68
+[INFO] RSSI values: -60 -60 -58 -80 -68
+[INFO] RSSI values: -59 -60 -58 -82 -69
+[INFO] RSSI values: -60 -60 -58 -81 -70
+[INFO] RSSI values: -60 -60 -58 -80 -69
+[INFO] RSSI values: -60 -60 -58 -79 -70
+[INFO] RSSI values: -60 -60 -58 -81 -69
+[INFO] RSSI values: -60 -60 -58 -81 -68
+[INFO] RSSI values: -60 -60 -58 -80 -66
+[INFO] RSSI values: -60 -60 -58 -81 -66
+[INFO] RSSI values: -60 -61 -58 -79 -66
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -50 -79 -65 -50 -64
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -65 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -59
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -58
+[INFO] RSSI values: -50 -64 -67 -51 -58
+[INFO] RSSI values: -50 -64 -67 -51 -58
+[INFO] RSSI values: -50 -63 -67 -51 -58
+[INFO] RSSI values: -50 -63 -67 -51 -57
+[INFO] RSSI values: -50 -63 -67 -51 -57
+[INFO] RSSI values: -50 -64 -67 -52 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -67 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -62 -66 -51 -56
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -62 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -65 -51 -57
+[INFO] RSSI values: -50 -63 -65 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -58
+[INFO] RSSI values: -50 -63 -66 -51 -58
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -52 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -63 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -65 -66 -51 -58
+[INFO] RSSI values: -50 -65 -66 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -56
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -56
+[INFO] RSSI values: -50 -63 -67 -51 -57
+[INFO] RSSI values: -50 -63 -67 -51 -57
+[INFO] RSSI values: -50 -63 -66 -51 -57
+[INFO] RSSI values: -50 -63 -67 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -58
+[INFO] RSSI values: -50 -64 -67 -51 -58
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -67 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI values: -50 -64 -66 -51 -57
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -61 -64 -65 -55 -57
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -62 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -56 -60 -55 -55
+[INFO] RSSI values: -63 -56 -60 -55 -55
+[INFO] RSSI values: -63 -56 -60 -55 -55
+[INFO] RSSI values: -63 -56 -60 -55 -55
+[INFO] RSSI values: -63 -56 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -61 -55 -55
+[INFO] RSSI values: -63 -57 -61 -55 -54
+[INFO] RSSI values: -62 -57 -60 -55 -55
+[INFO] RSSI values: -62 -57 -60 -54 -55
+[INFO] RSSI values: -62 -57 -60 -54 -55
+[INFO] RSSI values: -63 -56 -61 -55 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -54 -54
+[INFO] RSSI values: -63 -57 -61 -54 -54
+[INFO] RSSI values: -63 -58 -61 -54 -55
+[INFO] RSSI values: -63 -58 -61 -54 -55
+[INFO] RSSI values: -63 -58 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -59 -54 -55
+[INFO] RSSI values: -63 -57 -59 -54 -55
+[INFO] RSSI values: -63 -57 -59 -54 -56
+[INFO] RSSI values: -63 -57 -60 -54 -56
+[INFO] RSSI values: -63 -56 -60 -54 -56
+[INFO] RSSI values: -63 -56 -59 -54 -56
+[INFO] RSSI values: -63 -56 -59 -54 -56
+[INFO] RSSI values: -63 -56 -59 -54 -56
+[INFO] RSSI values: -64 -56 -59 -54 -56
+[INFO] RSSI values: -64 -56 -59 -54 -56
+[INFO] RSSI values: -64 -56 -59 -54 -56
+[INFO] RSSI values: -63 -56 -59 -54 -56
+[INFO] RSSI values: -63 -56 -59 -54 -56
+[INFO] RSSI values: -63 -56 -59 -54 -56
+[INFO] RSSI values: -63 -56 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -61 -54 -55
+[INFO] RSSI values: -64 -57 -61 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -56 -60 -54 -55
+[INFO] RSSI values: -64 -56 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -57 -60 -54 -55
+[INFO] RSSI values: -64 -56 -61 -54 -55
+[INFO] RSSI values: -64 -56 -61 -54 -55
+[INFO] RSSI values: -64 -56 -61 -54 -55
+[INFO] RSSI values: -64 -56 -61 -55 -55
+[INFO] RSSI values: -64 -56 -61 -54 -55
+[INFO] RSSI values: -64 -56 -61 -55 -55
+[INFO] RSSI values: -64 -57 -61 -55 -55
+[INFO] RSSI values: -64 -56 -61 -55 -55
+[INFO] RSSI values: -64 -57 -61 -55 -55
+[INFO] RSSI values: -64 -57 -61 -54 -55
+[INFO] RSSI values: -64 -57 -61 -54 -55
+[INFO] RSSI values: -64 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -54
+[INFO] RSSI values: -64 -57 -60 -55 -54
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -55 -55
+[INFO] RSSI values: -63 -57 -60 -54 -55
+[INFO] RSSI values: -63 -57 -61 -54 -55
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -57 -73 -76 -62 -54
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -51 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -51 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -51 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -58 -52 -61 -54 -59
+[INFO] RSSI values: -58 -52 -61 -54 -59
+[INFO] RSSI values: -58 -52 -61 -54 -59
+[INFO] RSSI values: -58 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -58 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -51 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -58 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -58 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -58 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -58
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -60
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -61 -54 -58
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -58 -52 -61 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -58 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -58 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI values: -57 -52 -60 -54 -59
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -63 -66 -79 -57 -65
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -63
+[INFO] RSSI values: -58 -57 -58 -59 -63
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -63
+[INFO] RSSI values: -58 -57 -58 -58 -63
+[INFO] RSSI values: -58 -57 -58 -58 -63
+[INFO] RSSI values: -58 -57 -58 -58 -62
+[INFO] RSSI values: -58 -57 -58 -58 -63
+[INFO] RSSI values: -58 -58 -58 -58 -63
+[INFO] RSSI values: -58 -58 -58 -58 -64
+[INFO] RSSI values: -58 -57 -58 -58 -64
+[INFO] RSSI values: -58 -58 -57 -58 -64
+[INFO] RSSI values: -58 -58 -58 -58 -64
+[INFO] RSSI values: -58 -57 -57 -59 -64
+[INFO] RSSI values: -58 -57 -57 -59 -64
+[INFO] RSSI values: -58 -58 -57 -58 -64
+[INFO] RSSI values: -58 -57 -57 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -63
+[INFO] RSSI values: -58 -57 -58 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -58 -59 -64
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -61
+[INFO] RSSI values: -58 -57 -57 -59 -64
+[INFO] RSSI values: -58 -58 -57 -59 -64
+[INFO] RSSI values: -58 -58 -57 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -61
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -57 -59 -61
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -58 -62
+[INFO] RSSI values: -58 -58 -57 -58 -63
+[INFO] RSSI values: -58 -58 -57 -59 -62
+[INFO] RSSI values: -58 -58 -57 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -64
+[INFO] RSSI values: -58 -58 -58 -59 -64
+[INFO] RSSI values: -58 -57 -57 -59 -65
+[INFO] RSSI values: -58 -57 -57 -59 -64
+[INFO] RSSI values: -58 -58 -58 -58 -64
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -58 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -57 -59 -63
+[INFO] RSSI values: -58 -57 -58 -60 -63
+[INFO] RSSI values: -58 -58 -58 -59 -64
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -57 -58 -59 -62
+[INFO] RSSI values: -58 -58 -57 -59 -61
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -57 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -61
+[INFO] RSSI values: -58 -57 -58 -59 -61
+[INFO] RSSI values: -58 -58 -57 -58 -62
+[INFO] RSSI values: -58 -57 -57 -58 -63
+[INFO] RSSI values: -58 -57 -57 -58 -61
+[INFO] RSSI values: -58 -58 -58 -59 -61
+[INFO] RSSI values: -58 -57 -58 -59 -61
+[INFO] RSSI values: -58 -57 -57 -58 -61
+[INFO] RSSI values: -58 -57 -58 -58 -60
+[INFO] RSSI values: -59 -58 -58 -58 -60
+[INFO] RSSI values: -58 -58 -58 -59 -61
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -64
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -57 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -58 -62
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI values: -58 -58 -58 -59 -63
+[INFO] RSSI values: -58 -58 -58 -59 -62
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -54 -75 -67 -57 -54
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -66 -58 -70
+[INFO] RSSI values: -54 -60 -66 -58 -70
+[INFO] RSSI values: -54 -59 -66 -58 -71
+[INFO] RSSI values: -54 -59 -66 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -71
+[INFO] RSSI values: -54 -59 -65 -59 -70
+[INFO] RSSI values: -54 -59 -65 -58 -71
+[INFO] RSSI values: -54 -59 -65 -58 -71
+[INFO] RSSI values: -54 -59 -65 -58 -72
+[INFO] RSSI values: -54 -59 -65 -58 -73
+[INFO] RSSI values: -54 -59 -65 -58 -72
+[INFO] RSSI values: -54 -59 -66 -58 -72
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -71
+[INFO] RSSI values: -54 -59 -66 -58 -70
+[INFO] RSSI values: -54 -59 -66 -58 -71
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -68
+[INFO] RSSI values: -54 -59 -66 -58 -71
+[INFO] RSSI values: -54 -59 -66 -58 -73
+[INFO] RSSI values: -54 -59 -66 -58 -70
+[INFO] RSSI values: -54 -59 -66 -58 -71
+[INFO] RSSI values: -54 -59 -66 -58 -68
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -66 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -69
+[INFO] RSSI values: -54 -59 -65 -58 -71
+[INFO] RSSI values: -54 -59 -66 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -66 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -66 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -71
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -58 -70
+[INFO] RSSI values: -54 -59 -65 -59 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -59 -66 -58 -67
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -72
+[INFO] RSSI values: -54 -60 -65 -58 -73
+[INFO] RSSI values: -54 -60 -64 -58 -70
+[INFO] RSSI values: -54 -60 -64 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -64 -58 -70
+[INFO] RSSI values: -54 -60 -65 -59 -69
+[INFO] RSSI values: -54 -59 -65 -58 -71
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -71
+[INFO] RSSI values: -54 -60 -65 -58 -72
+[INFO] RSSI values: -54 -60 -65 -58 -72
+[INFO] RSSI values: -54 -61 -64 -58 -73
+[INFO] RSSI values: -54 -60 -64 -58 -73
+[INFO] RSSI values: -54 -61 -64 -58 -76
+[INFO] RSSI values: -54 -61 -64 -58 -76
+[INFO] RSSI values: -54 -61 -64 -58 -73
+[INFO] RSSI values: -54 -60 -64 -58 -75
+[INFO] RSSI values: -54 -60 -64 -59 -74
+[INFO] RSSI values: -54 -60 -64 -59 -73
+[INFO] RSSI values: -54 -60 -65 -59 -72
+[INFO] RSSI values: -54 -60 -64 -59 -71
+[INFO] RSSI values: -54 -60 -64 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -59 -70
+[INFO] RSSI values: -54 -60 -65 -59 -69
+[INFO] RSSI values: -54 -60 -65 -58 -69
+[INFO] RSSI values: -54 -60 -65 -58 -68
+[INFO] RSSI values: -54 -60 -65 -58 -68
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI values: -54 -60 -65 -58 -70
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -68 -55 -70 -57 -54
+[INFO] RSSI values: -67 -58 -61 -73 -48
+[INFO] RSSI values: -68 -58 -61 -73 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -67 -58 -60 -72 -48
+[INFO] RSSI values: -67 -58 -61 -71 -48
+[INFO] RSSI values: -67 -58 -61 -71 -48
+[INFO] RSSI values: -67 -58 -61 -72 -48
+[INFO] RSSI values: -68 -58 -61 -73 -48
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -67 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -67 -57 -61 -72 -48
+[INFO] RSSI values: -67 -57 -61 -72 -48
+[INFO] RSSI values: -67 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -67 -57 -61 -72 -47
+[INFO] RSSI values: -67 -58 -61 -72 -48
+[INFO] RSSI values: -68 -58 -61 -72 -47
+[INFO] RSSI values: -68 -58 -61 -72 -48
+[INFO] RSSI values: -67 -58 -61 -72 -48
+[INFO] RSSI values: -68 -58 -61 -72 -48
+[INFO] RSSI values: -67 -58 -61 -73 -48
+[INFO] RSSI values: -67 -58 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -67 -58 -61 -72 -48
+[INFO] RSSI values: -68 -58 -61 -71 -48
+[INFO] RSSI values: -68 -58 -61 -71 -48
+[INFO] RSSI values: -68 -58 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -70 -47
+[INFO] RSSI values: -67 -57 -61 -70 -47
+[INFO] RSSI values: -68 -57 -61 -70 -47
+[INFO] RSSI values: -67 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -70 -47
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -57 -61 -70 -47
+[INFO] RSSI values: -68 -58 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -67 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -67 -57 -61 -70 -47
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -72 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -62 -72 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -61 -71 -47
+[INFO] RSSI values: -68 -57 -62 -71 -48
+[INFO] RSSI values: -68 -57 -61 -70 -47
+[INFO] RSSI values: -68 -57 -62 -70 -47
+[INFO] RSSI values: -68 -57 -61 -70 -47
+[INFO] RSSI values: -68 -57 -62 -70 -48
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -58 -61 -70 -48
+[INFO] RSSI values: -68 -58 -61 -70 -47
+[INFO] RSSI values: -68 -57 -62 -69 -47
+[INFO] RSSI values: -68 -57 -62 -69 -47
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -57 -59 -70 -48
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -58 -61 -70 -48
+[INFO] RSSI values: -68 -58 -61 -70 -48
+[INFO] RSSI values: -68 -57 -61 -70 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -71 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -72 -48
+[INFO] RSSI values: -68 -57 -61 -73 -48
+[INFO] RSSI values: -68 -57 -61 -73 -48
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -71 -56 -66 -73 -55
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -71 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -71 -76 -54 -53 -52
+[INFO] RSSI values: -71 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -55 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -55 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -69 -75 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -69 -75 -54 -53 -52
+[INFO] RSSI values: -69 -75 -54 -53 -52
+[INFO] RSSI values: -69 -75 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -72 -54 -53 -52
+[INFO] RSSI values: -70 -72 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -74 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -75 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -53
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -76 -54 -53 -52
+[INFO] RSSI values: -70 -77 -54 -53 -52
+[INFO] RSSI values: -70 -75 -55 -53 -52
+[INFO] RSSI values: -70 -74 -55 -53 -52
+[INFO] RSSI values: -70 -74 -55 -53 -52
+[INFO] RSSI values: -70 -73 -55 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI values: -70 -73 -54 -53 -52
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -59 -65 -69 -61 -57
+[INFO] RSSI values: -56 -51 -55 -51 -75
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -68
+[INFO] RSSI values: -56 -51 -55 -51 -68
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -74
+[INFO] RSSI values: -56 -51 -55 -51 -73
+[INFO] RSSI values: -56 -51 -55 -51 -74
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -56 -51 -75
+[INFO] RSSI values: -56 -51 -55 -51 -73
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -56 -51 -75
+[INFO] RSSI values: -56 -51 -55 -51 -75
+[INFO] RSSI values: -56 -51 -55 -51 -75
+[INFO] RSSI values: -56 -51 -55 -51 -76
+[INFO] RSSI values: -56 -51 -55 -51 -73
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -75
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -68
+[INFO] RSSI values: -56 -51 -55 -51 -68
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -56 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -56 -51 -70
+[INFO] RSSI values: -56 -51 -56 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -56 -51 -71
+[INFO] RSSI values: -56 -51 -56 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -72
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -56 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -68
+[INFO] RSSI values: -56 -51 -55 -51 -68
+[INFO] RSSI values: -56 -51 -55 -51 -67
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -69
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -71
+[INFO] RSSI values: -56 -51 -55 -51 -70
+[INFO] RSSI values: -56 -51 -55 -51 -74
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -60 -69 -63 -56 -66
+[INFO] RSSI values: -58 -56 -69 -56 -52
+[INFO] RSSI values: -58 -56 -69 -56 -52
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -74 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -73 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -70 -56 -52
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -57 -71 -56 -52
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -53
+[INFO] RSSI values: -58 -56 -71 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -73 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -73 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -52
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI values: -58 -56 -72 -56 -53
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -78 -59 -64 -66 -56
+[INFO] RSSI values: -58 -57 -56 -53 -46
+[INFO] RSSI values: -58 -57 -56 -53 -46
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -52 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -46
+[INFO] RSSI values: -58 -57 -55 -53 -46
+[INFO] RSSI values: -58 -57 -55 -53 -46
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -46
+[INFO] RSSI values: -58 -57 -56 -53 -46
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -52 -46
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -46
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -46
+[INFO] RSSI values: -58 -56 -56 -53 -46
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -52 -46
+[INFO] RSSI values: -58 -57 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -52 -47
+[INFO] RSSI values: -58 -56 -56 -52 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -56 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -55 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI values: -58 -57 -56 -53 -47
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -78 -54 -75 -51 -65
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -60 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -67 -58 -59 -48 -70
+[INFO] RSSI values: -69 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -68
+[INFO] RSSI values: -68 -58 -59 -48 -68
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -67 -58 -59 -48 -68
+[INFO] RSSI values: -68 -58 -59 -48 -67
+[INFO] RSSI values: -68 -58 -59 -48 -68
+[INFO] RSSI values: -68 -58 -58 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -74
+[INFO] RSSI values: -68 -58 -59 -48 -75
+[INFO] RSSI values: -68 -58 -58 -48 -74
+[INFO] RSSI values: -68 -58 -58 -48 -72
+[INFO] RSSI values: -68 -58 -58 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -68 -58 -59 -48 -68
+[INFO] RSSI values: -68 -58 -59 -48 -68
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -58 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -58 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -58 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -73
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -57 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -70
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -73
+[INFO] RSSI values: -68 -58 -59 -48 -73
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -57 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -71
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -72
+[INFO] RSSI values: -69 -58 -59 -48 -72
+[INFO] RSSI values: -68 -58 -59 -48 -69
+[INFO] RSSI values: -69 -58 -59 -48 -68
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -67 -66 -67 -56 -59
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -54 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -53 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -56
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -54
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -55 -55 -51 -54
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -54
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -56
+[INFO] RSSI values: -60 -54 -55 -52 -56
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -59 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -56
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -55 -55 -52 -54
+[INFO] RSSI values: -60 -54 -55 -52 -54
+[INFO] RSSI values: -60 -55 -55 -52 -54
+[INFO] RSSI values: -60 -55 -55 -52 -54
+[INFO] RSSI values: -60 -55 -55 -52 -54
+[INFO] RSSI values: -60 -55 -55 -52 -54
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -53 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -55 -55 -51 -55
+[INFO] RSSI values: -60 -55 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -54
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -51 -55
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -51 -56
+[INFO] RSSI values: -60 -54 -55 -51 -56
+[INFO] RSSI values: -60 -54 -55 -52 -56
+[INFO] RSSI values: -60 -54 -55 -52 -56
+[INFO] RSSI values: -60 -54 -55 -52 -55
+[INFO] RSSI values: -60 -54 -55 -52 -56
+[INFO] RSSI values: -60 -54 -55 -52 -56
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -65 -62 -65 -68 -71
+[INFO] RSSI values: -57 -58 -57 -59 -55
+[INFO] RSSI values: -57 -57 -58 -60 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -57 -58 -61 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -57 -58 -63 -55
+[INFO] RSSI values: -58 -57 -57 -63 -54
+[INFO] RSSI values: -57 -56 -58 -64 -54
+[INFO] RSSI values: -57 -57 -57 -61 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -57 -58 -63 -55
+[INFO] RSSI values: -57 -57 -58 -64 -55
+[INFO] RSSI values: -57 -57 -58 -63 -56
+[INFO] RSSI values: -57 -57 -57 -63 -56
+[INFO] RSSI values: -57 -57 -58 -63 -56
+[INFO] RSSI values: -57 -57 -58 -63 -56
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -57 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -57 -58 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -56
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -56
+[INFO] RSSI values: -57 -56 -57 -63 -56
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -57 -57 -62 -55
+[INFO] RSSI values: -57 -57 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -57 -58 -62 -55
+[INFO] RSSI values: -57 -57 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -64 -55
+[INFO] RSSI values: -57 -56 -58 -64 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -64 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -58 -62 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -62 -55
+[INFO] RSSI values: -57 -56 -57 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -56 -58 -63 -55
+[INFO] RSSI values: -57 -57 -58 -63 -56
+[INFO] RSSI values: -57 -57 -57 -63 -56
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -60 -60 -74 -59 -54
+[INFO] RSSI values: -56 -75 -54 -57 -47
+[INFO] RSSI values: -56 -74 -54 -56 -47
+[INFO] RSSI values: -56 -79 -54 -56 -47
+[INFO] RSSI values: -56 -75 -54 -56 -47
+[INFO] RSSI values: -56 -78 -53 -56 -47
+[INFO] RSSI values: -56 -77 -53 -56 -47
+[INFO] RSSI values: -56 -72 -53 -56 -47
+[INFO] RSSI values: -56 -71 -54 -57 -47
+[INFO] RSSI values: -56 -72 -54 -57 -47
+[INFO] RSSI values: -56 -73 -54 -57 -47
+[INFO] RSSI values: -56 -74 -54 -56 -47
+[INFO] RSSI values: -56 -75 -54 -56 -47
+[INFO] RSSI values: -56 -75 -54 -56 -47
+[INFO] RSSI values: -56 -77 -54 -57 -47
+[INFO] RSSI values: -56 -77 -54 -57 -47
+[INFO] RSSI values: -56 -78 -53 -56 -47
+[INFO] RSSI values: -56 -77 -54 -56 -47
+[INFO] RSSI values: -56 -76 -53 -56 -47
+[INFO] RSSI values: -56 -74 -53 -56 -47
+[INFO] RSSI values: -56 -77 -54 -56 -47
+[INFO] RSSI values: -56 -75 -53 -56 -47
+[INFO] RSSI values: -56 -79 -53 -56 -47
+[INFO] RSSI values: -56 -76 -53 -56 -47
+[INFO] RSSI values: -56 -74 -54 -56 -47
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -73 -53 -56 -48
+[INFO] RSSI values: -56 -74 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -77 -53 -56 -47
+[INFO] RSSI values: -56 -77 -54 -56 -48
+[INFO] RSSI values: -56 -77 -54 -56 -47
+[INFO] RSSI values: -56 -76 -54 -56 -47
+[INFO] RSSI values: -57 -76 -54 -56 -47
+[INFO] RSSI values: -56 -76 -54 -56 -47
+[INFO] RSSI values: -56 -76 -54 -56 -47
+[INFO] RSSI values: -56 -77 -54 -56 -47
+[INFO] RSSI values: -56 -77 -54 -56 -47
+[INFO] RSSI values: -56 -78 -54 -56 -47
+[INFO] RSSI values: -56 -78 -54 -56 -47
+[INFO] RSSI values: -56 -78 -54 -56 -47
+[INFO] RSSI values: -56 -78 -54 -56 -47
+[INFO] RSSI values: -56 -78 -53 -56 -48
+[INFO] RSSI values: -56 -78 -53 -56 -48
+[INFO] RSSI values: -56 -78 -53 -56 -48
+[INFO] RSSI values: -56 -77 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -75 -54 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -77 -53 -56 -47
+[INFO] RSSI values: -56 -75 -54 -56 -48
+[INFO] RSSI values: -56 -74 -54 -56 -48
+[INFO] RSSI values: -56 -74 -53 -56 -48
+[INFO] RSSI values: -56 -74 -53 -56 -47
+[INFO] RSSI values: -56 -74 -53 -56 -47
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -47
+[INFO] RSSI values: -56 -75 -53 -56 -47
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -74 -53 -56 -48
+[INFO] RSSI values: -56 -73 -53 -56 -48
+[INFO] RSSI values: -56 -73 -53 -56 -48
+[INFO] RSSI values: -56 -73 -53 -56 -48
+[INFO] RSSI values: -56 -73 -54 -56 -47
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -73 -53 -56 -48
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -72 -54 -56 -48
+[INFO] RSSI values: -56 -73 -54 -56 -48
+[INFO] RSSI values: -56 -72 -54 -56 -48
+[INFO] RSSI values: -56 -72 -53 -56 -48
+[INFO] RSSI values: -56 -71 -54 -56 -48
+[INFO] RSSI values: -56 -71 -53 -56 -48
+[INFO] RSSI values: -56 -71 -53 -56 -48
+[INFO] RSSI values: -56 -71 -53 -56 -48
+[INFO] RSSI values: -56 -71 -54 -56 -48
+[INFO] RSSI values: -56 -73 -53 -56 -48
+[INFO] RSSI values: -56 -74 -54 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -57 -77 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -77 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -75 -53 -56 -48
+[INFO] RSSI values: -56 -76 -53 -56 -48
+[INFO] RSSI values: -56 -75 -54 -56 -48
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -73 -54 -78 -50 -55
+[INFO] RSSI values: -70 -54 -56 -50 -60
+[INFO] RSSI values: -70 -54 -56 -50 -60
+[INFO] RSSI values: -70 -54 -56 -50 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -50 -60
+[INFO] RSSI values: -69 -54 -56 -49 -59
+[INFO] RSSI values: -70 -55 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -55 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -50 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -69 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -50 -59
+[INFO] RSSI values: -69 -54 -56 -50 -59
+[INFO] RSSI values: -69 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -50 -59
+[INFO] RSSI values: -70 -54 -57 -49 -60
+[INFO] RSSI values: -69 -54 -57 -50 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -50 -60
+[INFO] RSSI values: -70 -54 -56 -50 -59
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -69 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -59
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -50 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -50 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -70 -55 -56 -49 -60
+[INFO] RSSI values: -69 -54 -57 -49 -59
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -69 -54 -56 -49 -60
+[INFO] RSSI values: -70 -55 -57 -49 -60
+[INFO] RSSI values: -70 -55 -56 -49 -60
+[INFO] RSSI values: -70 -55 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -60
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -49 -59
+[INFO] RSSI values: -70 -54 -56 -50 -59
+[INFO] RSSI values: -70 -54 -56 -49 -58
+[INFO] RSSI values: -70 -54 -57 -49 -58
+[INFO] RSSI values: -70 -54 -57 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -59
+[INFO] RSSI values: -70 -54 -57 -49 -60
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -68 -76 -71 -57 -70
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -65
+[INFO] RSSI values: -62 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -62 -53 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -62 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -62 -54 -54 -51 -62
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -62
+[INFO] RSSI values: -62 -54 -54 -51 -66
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -66
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -62 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -62
+[INFO] RSSI values: -63 -54 -54 -51 -62
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -63
+[INFO] RSSI values: -62 -54 -54 -51 -63
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -64
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -62 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI values: -63 -54 -54 -51 -65
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -64 -62 -62 -67 -58
+[INFO] RSSI values: -63 -66 -60 -58 -55
+[INFO] RSSI values: -63 -66 -60 -58 -55
+[INFO] RSSI values: -62 -67 -60 -58 -55
+[INFO] RSSI values: -63 -67 -60 -58 -55
+[INFO] RSSI values: -62 -67 -60 -58 -55
+[INFO] RSSI values: -62 -67 -60 -58 -55
+[INFO] RSSI values: -63 -67 -60 -58 -55
+[INFO] RSSI values: -62 -67 -60 -58 -56
+[INFO] RSSI values: -63 -67 -60 -58 -56
+[INFO] RSSI values: -63 -66 -59 -58 -56
+[INFO] RSSI values: -63 -66 -60 -57 -55
+[INFO] RSSI values: -63 -66 -59 -58 -55
+[INFO] RSSI values: -63 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -60 -57 -56
+[INFO] RSSI values: -63 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -60 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -57 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -63 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -67 -59 -58 -55
+[INFO] RSSI values: -63 -67 -60 -58 -55
+[INFO] RSSI values: -62 -67 -59 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -63 -67 -60 -58 -56
+[INFO] RSSI values: -63 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -60 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -63 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -63 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -63 -66 -59 -58 -56
+[INFO] RSSI values: -62 -67 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -63 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -66 -59 -58 -56
+[INFO] RSSI values: -62 -67 -59 -58 -55
+[INFO] RSSI values: -62 -66 -58 -58 -55
+[INFO] RSSI values: -62 -67 -59 -58 -55
+[INFO] RSSI values: -62 -65 -59 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -60 -58 -55
+[INFO] RSSI values: -62 -66 -58 -58 -55
+[INFO] RSSI values: -62 -66 -59 -58 -55
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -64 -60 -76 -50 -57
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -57 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -52
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -52
+[INFO] RSSI values: -68 -58 -53 -56 -52
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -52
+[INFO] RSSI values: -68 -58 -53 -56 -52
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -68 -58 -53 -56 -53
+[INFO] RSSI values: -67 -58 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -54
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -68 -59 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -56 -53
+[INFO] RSSI values: -67 -59 -53 -57 -53
+[INFO] RSSI values: -67 -59 -53 -57 -54
+[INFO] RSSI values: -68 -59 -53 -56 -54
+[INFO] RSSI values: -68 -59 -53 -56 -54
+[INFO] RSSI values: -68 -59 -53 -56 -54
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -58 -82 -55 -49 -56
+[INFO] RSSI values: -64 -56 -53 -50 -64
+[INFO] RSSI values: -64 -56 -53 -51 -63
+[INFO] RSSI values: -64 -56 -53 -51 -63
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -56 -53 -51 -65
+[INFO] RSSI values: -64 -56 -53 -51 -65
+[INFO] RSSI values: -64 -56 -53 -51 -65
+[INFO] RSSI values: -64 -56 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -68
+[INFO] RSSI values: -63 -57 -53 -51 -68
+[INFO] RSSI values: -64 -57 -53 -51 -69
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -63 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -50 -67
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -50 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -50 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -56 -53 -51 -68
+[INFO] RSSI values: -64 -56 -53 -51 -68
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -68
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -56 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -64
+[INFO] RSSI values: -64 -57 -53 -50 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -65
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -66
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI values: -64 -57 -53 -51 -67
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -68 -60 -68 -56 -58
+[INFO] RSSI values: -60 -60 -62 -53 -69
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -54 -71
+[INFO] RSSI values: -60 -60 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -70
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -70
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -70
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -61 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -60 -61 -53 -69
+[INFO] RSSI values: -60 -61 -61 -53 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -61 -53 -69
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -60 -62 -54 -67
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -69
+[INFO] RSSI values: -60 -60 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -59 -61 -62 -54 -67
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -53 -68
+[INFO] RSSI values: -60 -60 -62 -53 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -67
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -62 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -53 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -53 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -71
+[INFO] RSSI values: -60 -61 -62 -54 -70
+[INFO] RSSI values: -60 -61 -62 -54 -69
+[INFO] RSSI values: -59 -61 -62 -54 -69
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI values: -60 -61 -62 -54 -68
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -61 -65 -82 -71 -58
+[INFO] RSSI values: -78 -56 -65 -57 -56
+[INFO] RSSI values: -77 -56 -66 -57 -56
+[INFO] RSSI values: -77 -56 -66 -56 -56
+[INFO] RSSI values: -78 -56 -66 -56 -56
+[INFO] RSSI values: -78 -56 -66 -56 -56
+[INFO] RSSI values: -78 -56 -66 -56 -56
+[INFO] RSSI values: -76 -56 -66 -56 -57
+[INFO] RSSI values: -76 -56 -66 -56 -56
+[INFO] RSSI values: -78 -56 -67 -56 -57
+[INFO] RSSI values: -77 -56 -67 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -67 -57 -57
+[INFO] RSSI values: -78 -56 -68 -57 -57
+[INFO] RSSI values: -77 -56 -67 -57 -57
+[INFO] RSSI values: -77 -56 -67 -57 -57
+[INFO] RSSI values: -78 -56 -67 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -57 -57
+[INFO] RSSI values: -77 -56 -66 -57 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -58
+[INFO] RSSI values: -77 -56 -66 -56 -58
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -57 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -66 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -56
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -66 -56 -56
+[INFO] RSSI values: -78 -56 -66 -56 -56
+[INFO] RSSI values: -78 -56 -66 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -65 -56 -57
+[INFO] RSSI values: -77 -56 -64 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -64 -56 -57
+[INFO] RSSI values: -79 -56 -64 -56 -56
+[INFO] RSSI values: -78 -56 -64 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -57
+[INFO] RSSI values: -78 -56 -65 -56 -56
+[INFO] RSSI values: -78 -56 -65 -56 -56
+[INFO] RSSI values: -77 -56 -65 -56 -56
+[INFO] RSSI values: -77 -56 -66 -56 -56
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -59 -54 -80 -65 -67
+[INFO] RSSI values: -58 -57 -61 -59 -55
+[INFO] RSSI values: -58 -57 -61 -59 -55
+[INFO] RSSI values: -58 -57 -61 -59 -55
+[INFO] RSSI values: -58 -57 -61 -60 -55
+[INFO] RSSI values: -58 -57 -60 -60 -55
+[INFO] RSSI values: -58 -57 -61 -60 -55
+[INFO] RSSI values: -58 -57 -61 -60 -55
+[INFO] RSSI values: -58 -57 -61 -60 -55
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -55
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -59 -57 -60 -60 -56
+[INFO] RSSI values: -59 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -55
+[INFO] RSSI values: -59 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -61 -61 -55
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -61 -57
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -59 -60 -55
+[INFO] RSSI values: -58 -57 -60 -60 -57
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -58 -59 -61 -56
+[INFO] RSSI values: -58 -58 -59 -61 -56
+[INFO] RSSI values: -58 -57 -59 -61 -56
+[INFO] RSSI values: -58 -57 -59 -61 -55
+[INFO] RSSI values: -58 -57 -59 -61 -55
+[INFO] RSSI values: -58 -57 -60 -60 -55
+[INFO] RSSI values: -58 -57 -60 -60 -55
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -57
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -59 -58 -60 -61 -57
+[INFO] RSSI values: -58 -57 -61 -61 -57
+[INFO] RSSI values: -58 -57 -61 -60 -57
+[INFO] RSSI values: -59 -57 -61 -61 -56
+[INFO] RSSI values: -59 -57 -61 -61 -56
+[INFO] RSSI values: -58 -57 -61 -61 -56
+[INFO] RSSI values: -58 -57 -61 -61 -56
+[INFO] RSSI values: -59 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -58 -60 -61 -56
+[INFO] RSSI values: -58 -58 -60 -61 -57
+[INFO] RSSI values: -58 -58 -60 -61 -57
+[INFO] RSSI values: -58 -58 -60 -60 -57
+[INFO] RSSI values: -58 -58 -60 -60 -56
+[INFO] RSSI values: -58 -58 -60 -60 -57
+[INFO] RSSI values: -58 -58 -60 -60 -57
+[INFO] RSSI values: -58 -57 -60 -60 -57
+[INFO] RSSI values: -58 -57 -60 -61 -57
+[INFO] RSSI values: -58 -57 -60 -62 -57
+[INFO] RSSI values: -58 -57 -60 -62 -57
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -62 -56
+[INFO] RSSI values: -59 -57 -60 -61 -56
+[INFO] RSSI values: -59 -57 -60 -61 -55
+[INFO] RSSI values: -59 -57 -61 -61 -57
+[INFO] RSSI values: -58 -57 -61 -61 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI values: -58 -57 -60 -60 -55
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -59 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -60 -62 -56
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -55
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -61 -56
+[INFO] RSSI values: -58 -57 -60 -60 -56
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -71 -65 -82 -65 -66
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -65 -53 -49 -64
+[INFO] RSSI values: -71 -65 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -65 -53 -49 -64
+[INFO] RSSI values: -71 -65 -53 -49 -65
+[INFO] RSSI values: -71 -65 -53 -49 -65
+[INFO] RSSI values: -71 -65 -53 -49 -65
+[INFO] RSSI values: -71 -65 -53 -49 -65
+[INFO] RSSI values: -71 -65 -53 -49 -65
+[INFO] RSSI values: -70 -65 -53 -49 -65
+[INFO] RSSI values: -70 -65 -53 -49 -65
+[INFO] RSSI values: -71 -65 -53 -49 -65
+[INFO] RSSI values: -70 -65 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -65 -53 -49 -64
+[INFO] RSSI values: -70 -65 -53 -49 -65
+[INFO] RSSI values: -70 -65 -53 -49 -64
+[INFO] RSSI values: -71 -65 -53 -50 -64
+[INFO] RSSI values: -71 -65 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -63
+[INFO] RSSI values: -71 -66 -53 -50 -63
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -63
+[INFO] RSSI values: -71 -66 -53 -50 -63
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -65
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -49 -64
+[INFO] RSSI values: -71 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -49 -65
+[INFO] RSSI values: -70 -65 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -49 -65
+[INFO] RSSI values: -70 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -49 -65
+[INFO] RSSI values: -70 -66 -53 -49 -65
+[INFO] RSSI values: -70 -66 -52 -49 -65
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -65 -53 -50 -65
+[INFO] RSSI values: -70 -65 -53 -50 -64
+[INFO] RSSI values: -70 -65 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -49 -64
+[INFO] RSSI values: -70 -66 -53 -49 -65
+[INFO] RSSI values: -70 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -49 -65
+[INFO] RSSI values: -70 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -50 -65
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -71 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI values: -70 -66 -53 -50 -64
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -60 -54 -66 -54 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -56 -52 -59
+[INFO] RSSI values: -56 -52 -56 -52 -60
+[INFO] RSSI values: -56 -52 -56 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -56 -51 -60
+[INFO] RSSI values: -56 -52 -56 -52 -61
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -51 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -53 -59
+[INFO] RSSI values: -57 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -60
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -56 -52 -59
+[INFO] RSSI values: -56 -52 -56 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -58
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -51 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -51 -59
+[INFO] RSSI values: -56 -52 -58 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -58
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -58
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -51 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -58
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -53 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI values: -56 -52 -57 -52 -59
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -57 -77 -64 -65 -58
+[INFO] RSSI values: -57 -54 -62 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -61 -56 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -61 -57 -55
+[INFO] RSSI values: -57 -54 -61 -57 -55
+[INFO] RSSI values: -56 -54 -61 -57 -55
+[INFO] RSSI values: -57 -54 -61 -57 -55
+[INFO] RSSI values: -56 -54 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -56 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -56 -55 -60 -57 -55
+[INFO] RSSI values: -56 -55 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -54 -61 -57 -55
+[INFO] RSSI values: -57 -55 -61 -57 -55
+[INFO] RSSI values: -56 -55 -61 -57 -55
+[INFO] RSSI values: -57 -54 -61 -57 -55
+[INFO] RSSI values: -56 -54 -61 -57 -54
+[INFO] RSSI values: -56 -55 -61 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -55 -61 -57 -54
+[INFO] RSSI values: -57 -55 -61 -57 -54
+[INFO] RSSI values: -57 -55 -61 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -54
+[INFO] RSSI values: -56 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -61 -57 -54
+[INFO] RSSI values: -56 -54 -61 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -54
+[INFO] RSSI values: -56 -54 -60 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -54 -60 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -54
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -54 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -56 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI values: -57 -55 -60 -57 -55
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -63 -55 -75 -64 -53
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -60 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -60 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -53
+[INFO] RSSI values: -59 -58 -56 -53 -53
+[INFO] RSSI values: -59 -57 -55 -53 -53
+[INFO] RSSI values: -59 -57 -55 -53 -53
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -60 -58 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -52 -52
+[INFO] RSSI values: -59 -57 -55 -52 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -55 -52 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -57 -55 -53 -51
+[INFO] RSSI values: -59 -57 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -51
+[INFO] RSSI values: -59 -58 -55 -53 -51
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -55 -53 -52
+[INFO] RSSI values: -59 -58 -56 -53 -53
+[INFO] RSSI values: -59 -58 -56 -53 -53
+[INFO] RSSI values: -59 -58 -56 -53 -52
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -57 -56 -53 -53
+[INFO] RSSI values: -59 -57 -56 -53 -52
+[INFO] RSSI values: -59 -57 -56 -52 -52
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -53 -59 -58 -54 -56
+[INFO] RSSI values: -59 -71 -54 -54 -65
+[INFO] RSSI values: -58 -69 -54 -54 -70
+[INFO] RSSI values: -58 -68 -54 -54 -69
+[INFO] RSSI values: -59 -68 -54 -55 -67
+[INFO] RSSI values: -58 -67 -54 -54 -67
+[INFO] RSSI values: -58 -67 -54 -54 -67
+[INFO] RSSI values: -58 -69 -54 -54 -67
+[INFO] RSSI values: -59 -68 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -67 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -55 -66
+[INFO] RSSI values: -58 -67 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -67 -54 -54 -67
+[INFO] RSSI values: -58 -67 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -59 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -55 -55 -66
+[INFO] RSSI values: -58 -68 -54 -55 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -67 -54 -54 -66
+[INFO] RSSI values: -58 -67 -54 -55 -66
+[INFO] RSSI values: -58 -68 -54 -55 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -55 -67
+[INFO] RSSI values: -58 -68 -54 -54 -68
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -55 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -55 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -69 -54 -54 -66
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -69 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -54 -65
+[INFO] RSSI values: -58 -68 -54 -55 -65
+[INFO] RSSI values: -58 -68 -54 -55 -66
+[INFO] RSSI values: -58 -69 -54 -55 -66
+[INFO] RSSI values: -58 -69 -54 -55 -66
+[INFO] RSSI values: -58 -68 -54 -54 -67
+[INFO] RSSI values: -58 -69 -54 -54 -67
+[INFO] RSSI values: -58 -70 -54 -55 -66
+[INFO] RSSI values: -58 -69 -54 -55 -66
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -77 -63 -75 -55 -64
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -61 -57 -58
+[INFO] RSSI values: -58 -56 -61 -56 -57
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -61 -56 -57
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -63 -57 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -59
+[INFO] RSSI values: -59 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -61 -57 -57
+[INFO] RSSI values: -58 -56 -61 -57 -58
+[INFO] RSSI values: -58 -56 -61 -57 -58
+[INFO] RSSI values: -58 -56 -61 -57 -58
+[INFO] RSSI values: -58 -56 -61 -57 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -61 -57 -58
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -62 -57 -58
+[INFO] RSSI values: -58 -56 -62 -57 -57
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -57
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -59
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -57 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -62 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI values: -58 -56 -61 -56 -58
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -54 -67 -76 -59 -58
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -54
+[INFO] RSSI values: -55 -59 -70 -58 -54
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -58 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -60 -69 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -68 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -71 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -71 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -60 -69 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -54
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -60 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -54
+[INFO] RSSI values: -55 -59 -71 -57 -54
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -54
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -59 -71 -57 -54
+[INFO] RSSI values: -55 -59 -71 -58 -53
+[INFO] RSSI values: -55 -60 -70 -58 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -71 -58 -53
+[INFO] RSSI values: -55 -59 -71 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -60 -70 -58 -53
+[INFO] RSSI values: -55 -60 -69 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -71 -57 -53
+[INFO] RSSI values: -55 -60 -70 -58 -53
+[INFO] RSSI values: -55 -60 -71 -57 -53
+[INFO] RSSI values: -55 -60 -71 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -71 -57 -53
+[INFO] RSSI values: -55 -59 -71 -57 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -54
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -57 -54
+[INFO] RSSI values: -55 -59 -69 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -60 -70 -58 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -70 -57 -53
+[INFO] RSSI values: -55 -60 -68 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -54
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -71 -57 -54
+[INFO] RSSI values: -55 -59 -70 -57 -54
+[INFO] RSSI values: -55 -59 -69 -57 -54
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -54
+[INFO] RSSI values: -55 -59 -69 -57 -54
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -71 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -58 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -70 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -69 -57 -53
+[INFO] RSSI values: -55 -59 -69 -58 -53
+[INFO] RSSI values: -55 -59 -69 -57 -54
+[INFO] RSSI values: -55 -60 -69 -57 -53
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -60 -65 -70 -55 -58
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -79 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -81 -51 -54
+[INFO] RSSI values: -59 -56 -82 -51 -55
+[INFO] RSSI values: -59 -56 -82 -51 -55
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -84 -51 -54
+[INFO] RSSI values: -59 -56 -85 -51 -54
+[INFO] RSSI values: -59 -56 -87 -51 -54
+[INFO] RSSI values: -59 -56 -84 -51 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -79 -52 -54
+[INFO] RSSI values: -59 -56 -79 -52 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -86 -52 -54
+[INFO] RSSI values: -59 -56 -86 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -82 -51 -54
+[INFO] RSSI values: -59 -56 -81 -51 -54
+[INFO] RSSI values: -59 -56 -79 -51 -54
+[INFO] RSSI values: -59 -56 -80 -51 -55
+[INFO] RSSI values: -59 -56 -80 -51 -54
+[INFO] RSSI values: -59 -56 -82 -51 -54
+[INFO] RSSI values: -59 -56 -79 -52 -55
+[INFO] RSSI values: -59 -56 -81 -51 -54
+[INFO] RSSI values: -59 -56 -81 -51 -54
+[INFO] RSSI values: -59 -56 -83 -51 -55
+[INFO] RSSI values: -59 -56 -84 -51 -55
+[INFO] RSSI values: -59 -56 -85 -51 -55
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -84 -51 -54
+[INFO] RSSI values: -59 -56 -86 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -85 -51 -54
+[INFO] RSSI values: -59 -56 -84 -51 -54
+[INFO] RSSI values: -59 -56 -84 -51 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -55
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -84 -51 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -83 -51 -54
+[INFO] RSSI values: -59 -56 -85 -51 -54
+[INFO] RSSI values: -59 -56 -83 -51 -54
+[INFO] RSSI values: -59 -56 -82 -52 -55
+[INFO] RSSI values: -59 -56 -82 -52 -55
+[INFO] RSSI values: -59 -56 -85 -51 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -85 -51 -54
+[INFO] RSSI values: -59 -56 -82 -51 -54
+[INFO] RSSI values: -59 -56 -81 -51 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -80 -51 -55
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -55
+[INFO] RSSI values: -59 -56 -81 -52 -55
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -55
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -85 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -86 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -57 -84 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -55
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -85 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -54
+[INFO] RSSI values: -59 -56 -84 -52 -55
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -82 -52 -54
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI values: -59 -56 -83 -52 -54
+[INFO] RSSI values: -59 -56 -80 -52 -54
+[INFO] RSSI values: -59 -56 -80 -52 -55
+[INFO] RSSI values: -59 -56 -81 -52 -54
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -60 -56 -60 -58 -65
+[INFO] RSSI values: -61 -65 -60 -57 -60
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -65 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -65 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -60 -66 -60 -58 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -60 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -60 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -60 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -59 -57 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -65 -59 -58 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -59 -58 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -65 -59 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -60 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -60 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -57 -59
+[INFO] RSSI values: -60 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -58 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -65 -60 -57 -60
+[INFO] RSSI values: -61 -65 -60 -58 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -60
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI values: -61 -66 -60 -57 -59
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -58 -57 -70 -57 -64
+[INFO] RSSI values: -55 -64 -70 -51 -64
+[INFO] RSSI values: -54 -57 -74 -57 -65
+[INFO] RSSI values: -58 -57 -71 -54 -67
+[INFO] RSSI values: -58 -54 -72 -53 -72
+[INFO] RSSI values: -58 -54 -72 -55 -68
+[INFO] RSSI values: -57 -53 -68 -55 -61
+[INFO] RSSI values: -57 -53 -69 -56 -67
+[INFO] RSSI values: -58 -53 -74 -56 -73
+[INFO] RSSI values: -58 -54 -70 -58 -65
+[INFO] RSSI values: -58 -56 -70 -56 -60
+[INFO] RSSI values: -57 -56 -69 -53 -61
+[INFO] RSSI values: -58 -56 -80 -54 -64
+[INFO] RSSI values: -58 -54 -81 -54 -65
+[INFO] RSSI values: -58 -54 -76 -54 -63
+[INFO] RSSI values: -58 -54 -75 -54 -64
+[INFO] RSSI values: -57 -54 -73 -56 -63
+[INFO] RSSI values: -57 -55 -75 -55 -63
+[INFO] RSSI values: -57 -55 -74 -55 -63
+[INFO] RSSI values: -58 -54 -76 -55 -63
+[INFO] RSSI values: -57 -54 -79 -55 -66
+[INFO] RSSI values: -58 -54 -77 -56 -65
+[INFO] RSSI values: -57 -54 -78 -55 -65
+[INFO] RSSI values: -57 -54 -78 -56 -66
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -74 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -74 -55 -65
+[INFO] RSSI values: -57 -54 -74 -55 -66
+[INFO] RSSI values: -57 -54 -74 -55 -66
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -74 -55 -64
+[INFO] RSSI values: -57 -55 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -55 -75 -55 -66
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -55 -75 -55 -64
+[INFO] RSSI values: -57 -54 -74 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -77 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -66
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -77 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -73 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -65
+[INFO] RSSI values: -57 -54 -74 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -59 -54 -75 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -75 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -77 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -74 -55 -64
+[INFO] RSSI values: -57 -54 -74 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -57 -54 -74 -55 -64
+[INFO] RSSI values: -57 -54 -75 -55 -64
+[INFO] RSSI values: -58 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -75 -55 -65
+[INFO] RSSI values: -57 -54 -75 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -64
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI values: -57 -54 -76 -55 -65
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -62 -74 -74 -62 -60
+[INFO] RSSI values: -59 -66 -66 -71 -62
+[INFO] RSSI values: -60 -68 -66 -69 -63
+[INFO] RSSI values: -60 -66 -66 -70 -63
+[INFO] RSSI values: -59 -67 -66 -73 -69
+[INFO] RSSI values: -60 -67 -67 -70 -65
+[INFO] RSSI values: -60 -68 -67 -69 -65
+[INFO] RSSI values: -60 -67 -67 -69 -68
+[INFO] RSSI values: -60 -67 -66 -69 -65
+[INFO] RSSI values: -60 -68 -67 -69 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -66 -67 -66
+[INFO] RSSI values: -60 -67 -66 -68 -67
+[INFO] RSSI values: -59 -67 -67 -69 -65
+[INFO] RSSI values: -60 -68 -66 -68 -65
+[INFO] RSSI values: -60 -66 -66 -68 -67
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -67
+[INFO] RSSI values: -60 -67 -66 -68 -68
+[INFO] RSSI values: -60 -67 -66 -68 -67
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -67 -65
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -66 -67 -65
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI values: -58 -67 -66 -68 -65
+[INFO] RSSI values: -60 -67 -66 -67 -65
+[INFO] RSSI values: -60 -67 -67 -67 -65
+[INFO] RSSI values: -60 -67 -66 -67 -65
+[INFO] RSSI values: -60 -67 -66 -67 -66
+[INFO] RSSI values: -60 -67 -67 -67 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -66 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -66 -69 -65
+[INFO] RSSI values: -60 -67 -67 -67 -65
+[INFO] RSSI values: -60 -67 -67 -67 -65
+[INFO] RSSI values: -60 -67 -67 -67 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -61 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -68 -66 -68 -66
+[INFO] RSSI values: -60 -67 -67 -69 -66
+[INFO] RSSI values: -60 -68 -67 -69 -66
+[INFO] RSSI values: -59 -67 -67 -69 -66
+[INFO] RSSI values: -60 -68 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -67
+[INFO] RSSI values: -60 -67 -67 -68 -67
+[INFO] RSSI values: -60 -67 -67 -68 -67
+[INFO] RSSI values: -60 -67 -67 -68 -67
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -67
+[INFO] RSSI values: -60 -67 -67 -67 -66
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -64
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -60 -67 -67 -68 -65
+[INFO] RSSI values: -59 -67 -67 -68 -66
+[INFO] RSSI values: -60 -67 -66 -69 -66
+[INFO] RSSI values: -60 -67 -66 -69 -66
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -67 -69 -66
+[INFO] RSSI values: -60 -67 -67 -69 -66
+[INFO] RSSI values: -60 -67 -66 -69 -67
+[INFO] RSSI values: -60 -67 -66 -68 -68
+[INFO] RSSI values: -60 -67 -66 -68 -66
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI values: -60 -68 -66 -68 -65
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI values: -60 -67 -66 -68 -65
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -65 -55 -57 -54 -53
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -56
+[INFO] RSSI values: -66 -53 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -65 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -53 -53 -53 -56
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -56
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -53 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -56
+[INFO] RSSI values: -66 -52 -53 -53 -57
+[INFO] RSSI values: -66 -52 -53 -53 -58
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -65 -67 -67 -55 -76
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -87
+[INFO] RSSI values: -58 -73 -56 -56 -80
+[INFO] RSSI values: -58 -75 -56 -55 -84
+[INFO] RSSI values: -58 -73 -56 -55 -83
+[INFO] RSSI values: -58 -74 -56 -55 -84
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -82
+[INFO] RSSI values: -58 -73 -56 -55 -81
+[INFO] RSSI values: -58 -74 -56 -55 -82
+[INFO] RSSI values: -58 -73 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -73 -56 -55 -79
+[INFO] RSSI values: -58 -73 -56 -55 -79
+[INFO] RSSI values: -58 -73 -56 -55 -80
+[INFO] RSSI values: -58 -73 -56 -55 -79
+[INFO] RSSI values: -58 -73 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -78
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -56 -82
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -83
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -72 -56 -55 -80
+[INFO] RSSI values: -58 -72 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -82
+[INFO] RSSI values: -58 -73 -56 -55 -79
+[INFO] RSSI values: -58 -73 -56 -55 -79
+[INFO] RSSI values: -58 -72 -56 -55 -81
+[INFO] RSSI values: -58 -74 -56 -55 -79
+[INFO] RSSI values: -58 -74 -56 -55 -81
+[INFO] RSSI values: -58 -73 -56 -55 -83
+[INFO] RSSI values: -58 -74 -56 -55 -81
+[INFO] RSSI values: -58 -74 -56 -55 -80
+[INFO] RSSI values: -58 -73 -56 -56 -78
+[INFO] RSSI values: -58 -73 -57 -56 -79
+[INFO] RSSI values: -58 -72 -57 -55 -79
+[INFO] RSSI values: -58 -72 -56 -56 -76
+[INFO] RSSI values: -58 -73 -57 -55 -78
+[INFO] RSSI values: -58 -73 -56 -55 -87
+[INFO] RSSI values: -58 -74 -57 -55 -78
+[INFO] RSSI values: -58 -73 -56 -55 -78
+[INFO] RSSI values: -58 -73 -56 -55 -77
+[INFO] RSSI values: -58 -74 -56 -55 -79
+[INFO] RSSI values: -58 -73 -57 -55 -78
+[INFO] RSSI values: -58 -73 -56 -55 -83
+[INFO] RSSI values: -58 -73 -56 -55 -89
+[INFO] RSSI values: -58 -73 -56 -55 -89
+[INFO] RSSI values: -58 -73 -56 -55 -88
+[INFO] RSSI values: -58 -73 -56 -55 -84
+[INFO] RSSI values: -58 -74 -56 -55 -83
+[INFO] RSSI values: -58 -73 -57 -55 -83
+[INFO] RSSI values: -58 -74 -57 -55 -82
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -58 -74 -57 -55 -82
+[INFO] RSSI values: -82 -55 -71 -59 -64
+[INFO] RSSI values: -85 -55 -73 -59 -64
+[INFO] RSSI values: -80 -55 -73 -59 -64
+[INFO] RSSI values: -78 -55 -73 -59 -63
+[INFO] RSSI values: -79 -55 -73 -59 -62
+[INFO] RSSI values: -78 -55 -73 -59 -62
+[INFO] RSSI values: -77 -54 -72 -60 -62
+[INFO] RSSI values: -71 -54 -71 -60 -62
+[INFO] RSSI values: -67 -54 -70 -61 -62
+[INFO] RSSI values: -67 -54 -70 -62 -63
+[INFO] RSSI values: -68 -54 -73 -63 -65
+[INFO] RSSI values: -71 -53 -74 -63 -69
+[INFO] RSSI values: -73 -53 -75 -63 -71
+[INFO] RSSI values: -73 -52 -76 -64 -71
+[INFO] RSSI values: -67 -53 -77 -65 -70
+[INFO] RSSI values: -67 -55 -78 -67 -78
+[INFO] RSSI values: -68 -55 -79 -67 -71
+[INFO] RSSI vaì[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -65 -54 -67 -62 -61
+[INFO] RSSI values: -68 -53 -59 -59 -64
+[INFO] RSSI values: -67 -53 -59 -59 -64
+[INFO] RSSI values: -68 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -59 -59 -64
+[INFO] RSSI values: -67 -53 -59 -58 -65
+[INFO] RSSI values: -67 -53 -59 -58 -64
+[INFO] RSSI values: -67 -53 -59 -58 -64
+[INFO] RSSI values: -67 -53 -59 -58 -64
+[INFO] RSSI values: -67 -53 -59 -58 -64
+[INFO] RSSI values: -67 -53 -59 -58 -64
+[INFO] RSSI values: -68 -53 -59 -58 -64
+[INFO] RSSI values: -67 -53 -59 -58 -64
+[INFO] RSSI values: -68 -53 -59 -58 -65
+[INFO] RSSI values: -67 -53 -59 -58 -66
+[INFO] RSSI values: -67 -53 -59 -58 -66
+[INFO] RSSI values: -68 -53 -59 -58 -66
+[INFO] RSSI values: -67 -53 -59 -58 -66
+[INFO] RSSI values: -68 -53 -59 -58 -66
+[INFO] RSSI values: -67 -53 -59 -58 -66
+[INFO] RSSI values: -68 -53 -59 -58 -66
+[INFO] RSSI values: -67 -53 -59 -58 -65
+[INFO] RSSI values: -68 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -68 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -68 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -65
+[INFO] RSSI values: -67 -53 -59 -58 -65
+[INFO] RSSI values: -68 -53 -60 -59 -65
+[INFO] RSSI values: -67 -53 -60 -59 -65
+[INFO] RSSI values: -67 -53 -60 -59 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -58 -65
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -63
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -59 -63
+[INFO] RSSI values: -67 -53 -60 -58 -63
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -54 -60 -58 -64
+[INFO] RSSI values: -67 -54 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -59 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -63
+[INFO] RSSI values: -67 -53 -60 -58 -63
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -59 -58 -62
+[INFO] RSSI values: -67 -53 -60 -59 -63
+[INFO] RSSI values: -67 -53 -60 -58 -63
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI values: -67 -53 -60 -58 -64
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -65 -57 -82 -55 -55
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -55
+[INFO] RSSI values: -64 -64 -76 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -65 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -65 -78 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -63 -77 -57 -54
+[INFO] RSSI values: -64 -63 -77 -57 -54
+[INFO] RSSI values: -64 -63 -78 -57 -54
+[INFO] RSSI values: -64 -63 -78 -57 -54
+[INFO] RSSI values: -64 -63 -77 -57 -54
+[INFO] RSSI values: -64 -63 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -76 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -65 -79 -57 -54
+[INFO] RSSI values: -64 -65 -80 -57 -54
+[INFO] RSSI values: -64 -65 -79 -57 -54
+[INFO] RSSI values: -64 -64 -80 -57 -54
+[INFO] RSSI values: -64 -64 -80 -57 -54
+[INFO] RSSI values: -64 -64 -80 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -79 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -65 -79 -57 -54
+[INFO] RSSI values: -64 -65 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -76 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -63 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -76 -57 -54
+[INFO] RSSI values: -64 -63 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -63 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -63 -78 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -65 -76 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -78 -57 -54
+[INFO] RSSI values: -64 -64 -76 -57 -54
+[INFO] RSSI values: -64 -64 -75 -57 -54
+[INFO] RSSI values: -64 -63 -75 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -77 -57 -54
+[INFO] RSSI values: -64 -64 -76 -57 -54
+[INFO] RSSI values: -64 -63 -76 -57 -54
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+[2J[;HPSoC 6 MCU With RSSI Client 
+[INFO] : BLE stack started 
+[INFO] : BLE Event 0x3002
+[INFO] : BLE Event 0x2004
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x3006
+[INFO] : BLE Event 0x400B
+Button has been pressed 
+[INFO] RSSI sampling started
+[INFO] RSSI values: -61 -61 -68 -56 -56
+[INFO] RSSI values: -60 -59 -70 -53 -55
+[INFO] RSSI values: -61 -59 -69 -53 -54
+[INFO] RSSI values: -60 -59 -69 -53 -54
+[INFO] RSSI values: -60 -59 -69 -53 -54
+[INFO] RSSI values: -60 -59 -68 -53 -54
+[INFO] RSSI values: -61 -60 -67 -53 -55
+[INFO] RSSI values: -61 -60 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -67 -54 -55
+[INFO] RSSI values: -61 -59 -67 -54 -55
+[INFO] RSSI values: -61 -60 -67 -53 -54
+[INFO] RSSI values: -61 -60 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -66 -53 -54
+[INFO] RSSI values: -61 -59 -67 -54 -54
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -54 -54
+[INFO] RSSI values: -61 -59 -68 -54 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -70 -53 -54
+[INFO] RSSI values: -61 -59 -70 -53 -54
+[INFO] RSSI values: -61 -58 -70 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -54 -54
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -54 -55
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -60 -67 -54 -54
+[INFO] RSSI values: -61 -59 -66 -54 -54
+[INFO] RSSI values: -61 -59 -67 -54 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -54 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -70 -53 -54
+[INFO] RSSI values: -61 -59 -70 -53 -54
+[INFO] RSSI values: -61 -58 -68 -53 -54
+[INFO] RSSI values: -60 -59 -67 -53 -54
+[INFO] RSSI values: -61 -58 -68 -53 -54
+[INFO] RSSI values: -61 -58 -68 -53 -54
+[INFO] RSSI values: -61 -58 -68 -53 -54
+[INFO] RSSI values: -61 -59 -69 -53 -54
+[INFO] RSSI values: -61 -58 -69 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -58 -67 -54 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -68 -54 -54
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -59 -68 -54 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -68 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -61 -59 -67 -53 -54
+[INFO] RSSI values: -60 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -69 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -60 -59 -69 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -67 -53 -55
+[INFO] RSSI values: -61 -59 -68 -53 -55
+[INFO] RSSI values: -61 -58 -68 -53 -55
+[INFO] RSSI sampling ended
+[INFO] : BLE timeout event
+[INFO] : BLE Event 0x400B
+[INFO] : BLE Event 0x400B
+~.Connected.
+Connected.
+
+Disconnected.
