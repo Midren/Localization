@@ -5,6 +5,10 @@ from collections import defaultdict
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import seaborn as sns
+
+from sklearn.multioutput import MultiOutputRegressor
+from utils.theoretical_approximation import cartesian_cross_product
 
 
 def get_samples_by_points_num(df, points):
@@ -44,6 +48,17 @@ def split_data_regression(df, points_num, train_part, validation_part, test_part
         map(lambda data: (data.drop(columns=["Point", "Square", "Orientation", "x", "y"]), data[["x", "y"]]),
             map(lambda points: get_samples_by_points_num(df, points),
                 np.split(np.random.permutation(np.arange(points_num)), division))))
+
+
+def split_data_regression_cv(df, points_num, n_splits):
+    division = np.split(np.arange(points_num), n_splits)
+
+    for i in range(len(division)):
+        train = np.hstack(division[:i] + division[i+1:])
+        test = division[i]
+        yield itertools.chain.from_iterable(
+            map(lambda data: (data.drop(columns=["Point", "Square", "Orientation", "x", "y"]), data[["x", "y"]]),
+                map(lambda points: get_samples_by_points_num(df, points), [train, test])))
 
 
 def show_scores(model,X_test,Y_test):
@@ -136,3 +151,22 @@ def add_coordinates(df):
     df["x"] = df["x"] + df["Point"].apply(lambda x: point_to_coord_map[x//4][0])
     df["y"] = df["y"] + df["Point"].apply(lambda x: point_to_coord_map[x//4][1])
     return df
+
+
+def draw_regression_accuracy(df, points_num, x_len, y_len, cv_n_split, base_model, params):
+    res = pd.DataFrame(columns=["x", "y", "accuracy"])
+    for X_train, y_train, X_test, y_test in split_data_regression_cv(df, points_num, cv_n_split):
+        model = MultiOutputRegressor(base_model(**params))
+        model.fit(X_train, y_train)
+        predicted = model.predict(X_test)
+        res = pd.concat([res, pd.DataFrame({"x": y_test["x"].values, "y": y_test["y"].values, "accuracy": np.apply_along_axis(lambda x: (x[0]**2 + x[1]**2)**0.5, 1, np.abs(predicted - y_test))})])
+
+    mean_res = res.groupby(["x", "y"]).mean().reset_index()
+
+    coords = mean_res[["x", "y"]].values
+
+    field = np.zeros((x_len,y_len))
+    for p in cartesian_cross_product(np.arange(field.shape[0]), np.arange(field.shape[1])):
+        field[p[0], p[1]] = mean_res.iloc[np.apply_along_axis(lambda x: (x[0]**2 + x[1]**2)**0.5, 1, np.abs(coords - p)).argmin(), 2]
+
+    sns.heatmap(field,xticklabels=False,yticklabels=False,cmap="coolwarm_r")
