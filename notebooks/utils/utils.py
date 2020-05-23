@@ -5,6 +5,7 @@ from collections import defaultdict
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 from sklearn.multioutput import MultiOutputRegressor
@@ -51,7 +52,7 @@ def split_data_regression(df, points_num, train_part, validation_part, test_part
 
 
 def split_data_regression_cv(df, points_num, n_splits):
-    division = np.split(np.arange(points_num), n_splits)
+    division = np.split(np.random.permutation(np.arange(points_num)), n_splits)
 
     for i in range(len(division)):
         train = np.hstack(division[:i] + division[i+1:])
@@ -165,8 +166,10 @@ def draw_regression_accuracy(df, points_num, x_len, y_len, cv_n_split, base_mode
 
     coords = mean_res[["x", "y"]].values
 
-    field = np.zeros((x_len,y_len))
-    for p in cartesian_cross_product(np.arange(field.shape[0]), np.arange(field.shape[1])):
-        field[p[0], p[1]] = mean_res.iloc[np.apply_along_axis(lambda x: (x[0]**2 + x[1]**2)**0.5, 1, np.abs(coords - p)).argmin(), 2]
+    field = np.zeros((y_len,x_len))
+    for p in cartesian_cross_product(np.arange(field.shape[1]), np.arange(field.shape[0])):
+        field[p[1], p[0]] = mean_res.iloc[np.apply_along_axis(lambda x: (x[0]**2 + x[1]**2)**0.5, 1, np.abs(coords - p)).argmin(), 2]
 
-    sns.heatmap(field,xticklabels=False,yticklabels=False,cmap="coolwarm_r")
+    field = np.flip(field, 0)
+    fig, ax = plt.subplots(figsize=(10,10))
+    sns.heatmap(field, ax=ax, xticklabels=False,yticklabels=False,cmap="coolwarm_r")
